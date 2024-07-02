@@ -1,0 +1,21 @@
+{
+  "name": "007_danish_student_manegment_system",
+  "version": "2.0.1",
+  "description": "This is cli based student manegment system",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Danish Noor",
+  "license": "ISC",
+  "dependencies": {
+    "007_danish_student_manegment_system": "^2.0.1",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
